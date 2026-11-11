@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">打卡工作台</string>
+    <string name="widget_desc">桌面打卡卡片：查看并勾选打卡任务</string>
+    <string name="add_hint">输入打卡内容</string>
+    <string name="empty">点 + 添加打卡任务</string>
+</resources>
